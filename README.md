@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=jjaeho0415)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=JeongJaeHo)
   
-  ####  :wave: Welcome my github profile ! <br/> Journey to Become a Front-End Developer..
+  ####  :wave: Welcome 재호's github profile ! <br/> This is my Journey to Become a Front-End Developer..
   
    <h3>information(SNS)</h3>
     <a href="https://jjh0773.tistory.com/"><img src="https://img.shields.io/badge/tistory-f05650?style=for-the-badge&logo=tistory&logoColor=white"></a>
