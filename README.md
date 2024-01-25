@@ -4,16 +4,29 @@
   
   ####  :wave: Welcome 재호's github profile ! <br/> This is my Journey to Become a Front-End Developer..
   
-   <h3>information(SNS)</h3>
+   <h3>📞 Follow me 📞</h3>
+   <a href="mailto:jjh07734006@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="mailto:jjh0773@naver.com">
+        <img src="https://img.shields.io/badge/Naver-009630?style=for-the-badge&logo=Naver&logoColor=white"> 
+    </a>
     <a href="https://jjh0773.tistory.com/"><img src="https://img.shields.io/badge/tistory-f05650?style=for-the-badge&logo=tistory&logoColor=white"></a>
     <a href="https://www.instagram.com/purify_0kcal/"><img src="https://img.shields.io/badge/instagram-87536a?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://github.com/jjaeho0415/oz-front"><img src="https://img.shields.io/badge/oz_front-black?style=for-the-badge&logo=github&logoColor=white"></a>
     <br/>
-    <h3>Additional Skills</h3>
-    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow">
+    <h3>🎮favorite games🎮<h3>
+    <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">
+    <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+    <h3>📚 Once I've Used 📚</h3>
     <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=orange">
     <img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=CSS3&logoColor=blue">
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
+    <img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=C&logoColor=blue">
     <br/>
     <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
