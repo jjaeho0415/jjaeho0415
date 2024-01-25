@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=JeongJaeHo)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Jeong-JaeHo)
   
   ####  :wave: Welcome 재호's github profile ! <br/> This is my Journey to Become a Front-End Developer..
   
