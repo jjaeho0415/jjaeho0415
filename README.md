@@ -24,10 +24,7 @@
     <img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=CSS3&logoColor=blue">
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
-    <img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=C&logoColor=blue">
     <br/>
     <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
