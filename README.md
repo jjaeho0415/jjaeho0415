@@ -29,7 +29,6 @@
     <img src="https://img.shields.io/badge/zustand-553830?style=for-the-badge&logo=&logoColor=white">
     <br/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaeho0415&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=BF94E4F&text_color=fff&title_color=BF94E4&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
     <img src="https://github-readme-stats.vercel.app/api?username=jjaeho0415&show_icons=true&theme=material-palenigh&hide_border=true&bg_color=20232a&icon_color=BF94E4&text_color=fff&title_color=BF94E4&count_private=true" width=56% />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjaeho0415&theme=react-dark&bg_color=20232a&hide_border=true&line=670FDF&color=BF94E4" width=94%/>
     </a>
