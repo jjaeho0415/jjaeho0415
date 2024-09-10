@@ -14,6 +14,7 @@
     </a>
     <a href="https://jjh0773.tistory.com/"><img src="https://img.shields.io/badge/tistory-f05650?style=for-the-badge&logo=tistory&logoColor=white"></a>
     <a href="https://www.instagram.com/purify_0kcal/"><img src="https://img.shields.io/badge/instagram-87536a?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://velog.io/@jjaeho0415/posts"><img src="https://img.shields.io/badge/velog-009630?style=for-the-badge&logo=velog&logoColor=white"></a>
     <br/>
     <h3>📚 Skills Stack📚</h3>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
