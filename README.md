@@ -15,18 +15,15 @@
     <a href="https://jjh0773.tistory.com/"><img src="https://img.shields.io/badge/tistory-f05650?style=for-the-badge&logo=tistory&logoColor=white"></a>
     <a href="https://www.instagram.com/purify_0kcal/"><img src="https://img.shields.io/badge/instagram-87536a?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <br/>
-    <h3>🎮favorite games🎮<h3>
-    <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">
-    <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
     <h3>📚 Skills Stack📚</h3>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-CB3837?style=for-the-badge&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
-    <img src="https://img.shields.io/badge/zustand-553830?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/zustand-553830?style=for-the-badge&logo=zustand&logoColor=white">
+    <img src="https://img.shields.io/badge/CSSModule-blue?style=for-the-badge&logo=CSSModule&logoColor=white">
     <br/>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=jjaeho0415&show_icons=true&theme=material-palenigh&hide_border=true&bg_color=20232a&icon_color=BF94E4&text_color=fff&title_color=BF94E4&count_private=true" width=56% />
