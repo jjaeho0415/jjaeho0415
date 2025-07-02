@@ -25,6 +25,9 @@
     <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
     <img src="https://img.shields.io/badge/zustand-553830?style=for-the-badge&logo=zustand&logoColor=white">
     <img src="https://img.shields.io/badge/CSSModule-blue?style=for-the-badge&logo=CSSModule&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white">
     <br/>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=jjaeho0415&show_icons=true&theme=material-palenigh&hide_border=true&bg_color=20232a&icon_color=BF94E4&text_color=fff&title_color=BF94E4&count_private=true" width=56% />
