@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
+    <img src="https://img.shields.io/badge/Fetch%20API-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <br/>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=jjaeho0415&show_icons=true&theme=material-palenigh&hide_border=true&bg_color=20232a&icon_color=BF94E4&text_color=fff&title_color=BF94E4&count_private=true" width=56% />
